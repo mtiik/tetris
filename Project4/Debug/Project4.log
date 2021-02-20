@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\consoleapi2.h(284,1): warning C4005: WriteConsoleOutputCharacter: изменение макроопределения
+C:\Users\smatv\Desktop\Project4\Project4\Source.cpp(1): message : см. предыдущее определение "WriteConsoleOutputCharacter"
+  Project4.vcxproj -> C:\Users\smatv\Desktop\Project4\Debug\Project4.exe
